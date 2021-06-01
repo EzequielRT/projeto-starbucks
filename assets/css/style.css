@@ -244,3 +244,11 @@ h2 {
     background-position: right bottom;
     height: 600px;
 }
+
+/* --------------- FOOTER --------------- */
+footer {
+    background-color: #333;
+    color: #FFF;
+    padding: 70px;
+    text-align: center;
+}
